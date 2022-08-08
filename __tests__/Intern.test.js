@@ -1,4 +1,4 @@
-const { isObjectTypeInternalSlot } = require('@babel/types');
+const { Intern } = require('@babel/types');
 const { default: test } = require('node:test')
 const Intern = require('../lib/Intern')
 
