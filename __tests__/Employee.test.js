@@ -1,4 +1,3 @@
-const { default: test } = require('node:test')
 const Employee = require('../lib/Employee.js')
 
 test('check for employee object', () => {

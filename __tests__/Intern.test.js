@@ -1,5 +1,3 @@
-const { Intern } = require('@babel/types');
-const { default: test } = require('node:test')
 const Intern = require('../lib/Intern')
 
 test('check for interns school', () => {

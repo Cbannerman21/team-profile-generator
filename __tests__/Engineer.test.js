@@ -1,4 +1,3 @@
-const { default: test } = require('node:test')
 const Engineer = require('../lib/Engineer')
 
 test('test for engineer github', () => {
